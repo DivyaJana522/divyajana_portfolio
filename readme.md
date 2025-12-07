@@ -140,8 +140,8 @@ Free to use and modify for personal portfolio purposes.
 ## 🤝 Support
 
 For customization or deployment help:
-- Email: hemanth.narsingoju@outlook.com
-- LinkedIn: linkedin.com/in/narsingojuhemanth
+- Email: divyajana99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/divyajana22/
 
 ---
 
