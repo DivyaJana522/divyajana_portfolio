@@ -1,0 +1,197 @@
+{
+  "personal": {
+    "name": "Divya Jana",
+    "title": "Senior EDA Automation & DevOps Engineer",
+    "location": "Hyderabad, Telangana, India",
+    "summary": "VLSI Automation Engineer with nearly 5 years of experience in building scalable automation frameworks, optimizing ASIC workflows, and integrating AI/ML solutions into EDA ecosystems. Strong expertise in Python, CI/CD, ML, and ASIC validation flows, with a proven ability to reduce cycle time, enhance reliability, and streamline team operations.",
+    "status": "Available Immediately",
+    "highlights": [
+      "⚡ 5 Years Experience in VLSI Automation",
+      "🧠 Strong EDA & ASIC Flow Expertise",
+      "🤖 AI/ML & MLOps Implementations",
+      "🚀 25% Faster Bug Resolution",
+      "🛠️ 30% Reduction in Manual Debug Effort",
+      "⚙️ 50% Faster CI/CD Pipeline Execution"
+    ]
+  },
+  "contact": {
+    "email": "divyajana99@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/divyajana22/"
+  },
+  "skills": {
+    "programming": [
+      "Python",
+      "C++",
+      "Java",
+      "C",
+      "Bash",
+      "SQL",
+      "HTML/CSS",
+      "OOPS",
+      "Data Structures"
+    ],
+    "devops": [
+      "GitLab CI/CD",
+      "Jenkins",
+      "Docker",
+      "Podman"
+    ],
+    "visualization": [
+      "Streamlit",
+      "Grafana",
+      "Power BI",
+      "JIRA",
+      "Confluence Automation"
+    ],
+    "version_control": [
+      "Perforce",
+      "GitHub",
+      "GitLab"
+    ],
+    "generative_ai": [
+      "Prompt Engineering",
+      "RAG",
+      "Hugging Face Models",
+      "OpenAI APIs",
+      "LLMs",
+      "LLM Fine-Tuning"
+    ],
+    "ai_ml": [
+      "Machine Learning",
+      "Deep Learning",
+      "MLOps",
+      "MLflow",
+      "Knowledge Graphs",
+      "Natural Language Processing"
+    ],
+    "eda_tools": [
+      "VCS",
+      "Spyglass",
+      "VCFormal",
+      "VCSpyglass",
+      "Design Compiler",
+      "Synopsys Architect",
+      "Fishtail",
+      "Execution Manager"
+    ],
+    "other_tools": [
+      "Load Sharing Facility (LSF)",
+      "JIRA"
+    ],
+    "libraries": [
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "Scikit-learn"
+    ],
+    "operating_system": [
+      "Linux"
+    ]
+  },
+  
+  "experience": [
+    {
+      "company": "Synopsys Inc.",
+      "position": "Senior ASIC Digital Design Engineer",
+      "duration": "June 2022 – Present",
+      "location": "Hyderabad, India",
+      "achievements": [
+        "Developed a fully automated debugging & validation framework that reduced bug resolution time by 25%.",
+        "Integrated multiple EDA flows including VCS, Xcelium, Questasim, Spyglass, VCFormal, and Design Compiler.",
+        "Automated Jira filing and validation workflows, reducing manual engineering effort by 30%.",
+        "Built hybrid support for Perforce and Git, improving team flexibility across projects."
+      ]
+    },
+    {
+      "company": "Synopsys Inc.",
+      "position": "Technical Engineering Intern",
+      "duration": "July 2021 – June 2022",
+      "location": "Hyderabad, India",
+      "achievements": [
+        "Created a robust pre-submit checks flow for Perforce, reducing trunk errors by 30%.",
+        "Developed GitLab pre-MR pipelines that cut pipeline runtime by 50% using parallel executions."
+      ]
+    },
+    {
+      "company": "Call Health Pvt. Ltd.",
+      "position": "Software Engineering Intern",
+      "duration": "April 2021 – July 2021",
+      "location": "Hyderabad, India",
+      "achievements": [
+        "Supported software development tasks and strengthened foundational engineering skills."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master’s Degree in Artificial Intelligence & Machine Learning",
+      "institution": "BITS Pilani, Hyderabad",
+      "year": "2024 – Present",
+      "grade": "CGPA: 7.89/10"
+    },
+    {
+      "degree": "Bachelor’s Degree in Computer Science Engineering",
+      "institution": "JNTUH College of Engineering, Jagtial",
+      "year": "2017 – 2021",
+      "grade": "CGPA: 7.86/10"
+    },
+    {
+      "degree": "Intermediate (MPC)",
+      "institution": "Alphores Junior College, Karimnagar",
+      "year": "2015 – 2017",
+      "grade": "CGPA: 9.84/10"
+    },
+    {
+      "degree": "SSC – High School",
+      "institution": "Trinity Model Secondary School, Karimnagar",
+      "year": "2015",
+      "grade": "CGPA: 10.0/10"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Auto Debugger Tool ⚙️",
+      "description": "A scalable automation framework that detects regressions, generates detailed reports, and auto-files Jira tickets for ASIC validation. Supports VCS, Xcelium, Questasim, Spyglass, VCFormal, Fishtail, and Design Compiler.",
+      "impact": "25% faster bug resolution, 30% reduction in manual engineering workload.",
+      "technologies": [
+        "Python",
+        "EDA Tools",
+        "Email Automation",
+        "Jira API",
+        "Perforce",
+        "Git"
+      ]
+    },
+    {
+      "title": "Pre-submit Checks for Perforce 🔍",
+      "description": "Automated pre-submit validation that prevents faulty commits by performing multi-stage sanity checks.",
+      "impact": "Reduced Perforce trunk errors by 30%."
+    },
+    {
+      "title": "GitLab Pre-MR CI/CD Pipeline 🚀",
+      "description": "Automated build, linting, elaboration, IP checkout, and testbench checks for ARC processors using GitLab CI/CD.",
+      "impact": "Pipeline runtime improved by 50% through optimized parallel execution."
+    },
+    {
+      "title": "End-to-End MLOps Pipeline 🤖",
+      "description": "Developed a full ML workflow including data preprocessing, training, experiment tracking (MLflow), model deployment (FastAPI + Docker), and real-time monitoring with Prometheus and Streamlit.",
+      "impact": "Delivered a production-ready ML system with full automation & observability."
+    },
+    {
+      "title": "Additional Automation & Analytics Projects 📊",
+      "description": "Built Streamlit dashboards, automated live Confluence status pages, optimized LSF grid usage (20% CPU efficiency increase), standardized module loading, and mentored junior engineers."
+    }
+  ],
+  "achievements": [
+    "🏆 Outstanding Team Contributor Award – Synopsys (2024)",
+    "🏆 Outstanding Team Contributor Award – Synopsys (2023)",
+    "🥇 SEEDS 2.0 Winner – Synopsys South Asia (2022)",
+    "🎖️ Finalist – I-Innovate Hackathon (Top 50 out of 790 projects)",
+    "📘 NPTEL Elite Silver Badge – Programming in Python"
+  ],
+  "languages": [
+    { "language": "English", "level": "Full Professional" },
+    { "language": "Telugu", "level": "Native" },
+    { "language": "Hindi", "level": "Working Proficiency" }
+  ]
+}
